@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Qadeem Khan</h1>
 <h3 align="center">I am a Master’s student in Master Stude<h1 align="center">Hi 👋, I'm Qadeem Khan</h1>
 <h3 align="center">Master’s Student in Computer Vision and Robotics | AI & Full-Stack Developer</h3>
 
